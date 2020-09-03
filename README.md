@@ -12,7 +12,6 @@ python3 setup.py build
 
 ## Using
 
-You really shouldn't use this, but I guess you could.
 
 ```
 Python 3.5.2 (default, Nov 12 2018, 13:43:14) 
