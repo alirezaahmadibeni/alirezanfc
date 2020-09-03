@@ -23,5 +23,4 @@ setup(name='alirezanfc',
       author='Alireza Ahmadi Beni',
       author_email='a.ahmadi.sku@gmail.com',
       url='',
-      packages=['alirezanfc'],
       ext_modules=[alirezanfc])
